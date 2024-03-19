@@ -2,7 +2,7 @@
 >**Comment créer  un formulaire de contact**
 
 >*Exemple de code html*
-'''html
+```html
 <fieldset>
             <legend> Remplir le formulaire</legend>
             <form action="https://www.google.com/search" method="get">
@@ -18,7 +18,7 @@
             </form>
         </fieldset>
 
-'''
+```
 
 >**languages**
 1. html
