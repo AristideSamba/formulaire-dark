@@ -23,6 +23,7 @@
 >**languages**
 1. html
 2. css
+
  ![cover](./asset/undraw_undraw_love_it_xkc2_gyie.svg)
- 
+
 [![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)](https://forthebadge.com)
